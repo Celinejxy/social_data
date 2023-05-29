@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/celine/Desktop/social_data/mlruns/0/afacd115fe6c43dd8864bec4ec936091/artifacts
+end_time: 1685392146412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afacd115fe6c43dd8864bec4ec936091
+run_name: shivering-robin-692
+run_uuid: afacd115fe6c43dd8864bec4ec936091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685392135354
+status: 3
+tags: []
+user_id: celine

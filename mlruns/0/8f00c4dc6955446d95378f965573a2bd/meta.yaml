@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/celine/Desktop/social_data/mlruns/0/8f00c4dc6955446d95378f965573a2bd/artifacts
+end_time: 1685391977081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f00c4dc6955446d95378f965573a2bd
+run_name: whimsical-vole-810
+run_uuid: 8f00c4dc6955446d95378f965573a2bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685391973374
+status: 3
+tags: []
+user_id: celine

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/celine/Desktop/social_data/mlruns/0/1d26c05970ee4e5d8e8b685941f1dfc9/artifacts
+end_time: 1685391938062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d26c05970ee4e5d8e8b685941f1dfc9
+run_name: brawny-duck-774
+run_uuid: 1d26c05970ee4e5d8e8b685941f1dfc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685391927014
+status: 3
+tags: []
+user_id: celine

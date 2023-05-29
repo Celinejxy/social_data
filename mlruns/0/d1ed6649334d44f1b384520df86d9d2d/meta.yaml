@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/celine/Desktop/social_data/mlruns/0/d1ed6649334d44f1b384520df86d9d2d/artifacts
+end_time: 1685391297813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1ed6649334d44f1b384520df86d9d2d
+run_name: auspicious-ape-337
+run_uuid: d1ed6649334d44f1b384520df86d9d2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685391286755
+status: 3
+tags: []
+user_id: celine

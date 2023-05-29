@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/celine/Desktop/social_data/mlruns/0/353bacf689094542a346e8401135963b/artifacts
+end_time: 1685391275758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 353bacf689094542a346e8401135963b
+run_name: gregarious-newt-358
+run_uuid: 353bacf689094542a346e8401135963b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685391262698
+status: 4
+tags: []
+user_id: celine

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/celine/Desktop/social_data/mlruns/0/ca20c90a43fe4d07adf974a814b1fde0/artifacts
+end_time: 1685392074100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca20c90a43fe4d07adf974a814b1fde0
+run_name: ambitious-zebra-766
+run_uuid: ca20c90a43fe4d07adf974a814b1fde0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685392070253
+status: 3
+tags: []
+user_id: celine

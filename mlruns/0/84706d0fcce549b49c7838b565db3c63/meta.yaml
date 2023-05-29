@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/celine/Desktop/social_data/mlruns/0/84706d0fcce549b49c7838b565db3c63/artifacts
+end_time: 1685391827490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84706d0fcce549b49c7838b565db3c63
+run_name: peaceful-dove-430
+run_uuid: 84706d0fcce549b49c7838b565db3c63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685391300150
+status: 3
+tags: []
+user_id: celine
