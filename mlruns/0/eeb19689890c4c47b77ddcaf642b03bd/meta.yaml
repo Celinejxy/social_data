@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/celine/Desktop/social_data/mlruns/0/eeb19689890c4c47b77ddcaf642b03bd/artifacts
+end_time: 1685404068428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eeb19689890c4c47b77ddcaf642b03bd
+run_name: abrasive-lynx-820
+run_uuid: eeb19689890c4c47b77ddcaf642b03bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685404054338
+status: 3
+tags: []
+user_id: celine

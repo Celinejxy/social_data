@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/celine/Desktop/social_data/mlruns/0/ddbc5038f5da406c9c6b27695badceea/artifacts
+end_time: 1685404073579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddbc5038f5da406c9c6b27695badceea
+run_name: loud-bee-379
+run_uuid: ddbc5038f5da406c9c6b27695badceea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685404068673
+status: 3
+tags: []
+user_id: celine
